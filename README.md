@@ -19,3 +19,4 @@ Bob Ricks, Dan Ventura, http://papers.nips.cc/paper/2363-training-a-quantum-neur
 Huaixin Cao
 , Feilong Cao 
 , Dianhui Wang 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.229&rep=rep1&type=pdf
