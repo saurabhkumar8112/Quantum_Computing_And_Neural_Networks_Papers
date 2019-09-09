@@ -6,10 +6,16 @@ Before that a primary pre-requisite of getting started with Quantum Neural Netwo
 
 Here's the link https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4&index=1
 
+So here I mention the papers that helped me develop my basic foundation.
+
+
 1. Quantum Neural Networks
 Sanjay Gupta
 
 2. Training a Quantum Neural Network
 Bob Ricks, Dan Ventura, http://papers.nips.cc/paper/2363-training-a-quantum-neural-network.pdf
 
-2. 
+3. Quantum artificial neural networks with applications
+Huaixin Cao
+, Feilong Cao 
+, Dianhui Wang 
